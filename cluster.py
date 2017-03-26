@@ -1,4 +1,3 @@
-# This is an implementation of Frequent Itemset intending to do Apriori Hybrid
 import itertools
 import timeit
 import collections
